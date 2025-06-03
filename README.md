@@ -17,4 +17,4 @@ Foundation for Compliers and Interpreters,Static Code Analysis Tools,Tool Develo
 
 #OUTPUT
 
-
+![Image_cf814cf8](https://github.com/user-attachments/assets/dd4221ff-9474-4433-9ce9-089d0d42b5fb)
